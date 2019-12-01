@@ -8,5 +8,3 @@ reduxを使えるようになりたかったので作り始めたが、webpack.c
 
 ## 元記事
 https://qiita.com/pullphone/items/fdb0f36d8b4e5c0ae893
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
